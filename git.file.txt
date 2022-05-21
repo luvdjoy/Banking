@@ -7,4 +7,11 @@ everyone will talking about Equal Chance for Education
 but not many people were moving a finger to make "ECE" really happen.
 Today I would like to start sharing secret tactics and 
 knowledge of leader Project / Program /
+<<<<<<< HEAD
 i am adding a new file
+=======
+i added this line on new_feature
+We are planning the Kindergarten Orientation for June 9th.  Please save this date.  Details to follow.
+
+Thank you.
+>>>>>>> new_feature
